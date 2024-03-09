@@ -1,0 +1,30 @@
+Analisis kebutuhan membuat website galeri foto
+#Hardware
+1.Keyboard
+2.Mouse
+3.PC
+4.Monitor
+
+#Software
+1.Visual Studio Code
+2.XAMPP PHP version: 8.1.17(local server)
+3.Google Chrome(Web browser)
+
+#Bahasa Pemrograman
+1.PHP
+2.HTML
+3.JS
+4.CSS
+
+#Device Specification
+1.Processor	Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz   3.30 GHz
+2.Installed RAM	4,00 GB (3,88 GB usable)
+3.Device ID	E9B05564-B67B-46FD-ACBB-03A03220BA69
+4.Product ID	00331-10000-00001-AA335
+5.System type	64-bit operating system, x64-based processor
+
+#Windows Specification
+1.Edition	Windows 10 Pro
+2.Version	22H2
+
+
